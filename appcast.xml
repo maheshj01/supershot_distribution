@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>supershot</title>
+        <item>
+            <title>0.1</title>
+            <pubDate>Mon, 08 Dec 2025 22:40:02 -0500</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://maheshj01.github.io/supershot_distribution/Supershot.dmg" length="1355795" type="application/octet-stream" sparkle:edSignature="fig6KvOZrzbijU952ErFT8QYb0lpk6SYDI0dl0nhO67lqTqp+tDhKMM7EkOVl9qq4u+TKar5L5ksYeyNEPZxDg=="/>
+        </item>
+    </channel>
+</rss>
