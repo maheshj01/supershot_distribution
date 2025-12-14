@@ -4,11 +4,11 @@
         <title>supershot</title>
         <item>
             <title>0.3</title>
-            <pubDate>Sun, 14 Dec 2025 01:32:04 -0500</pubDate>
+            <pubDate>Sun, 14 Dec 2025 01:39:08 -0500</pubDate>
             <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>0.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://maheshj01.github.io/supershot_distribution/Supershot.dmg" length="1384618" type="application/octet-stream" sparkle:edSignature="6g5ukS4pDAEZlB1YjPlYlFCclwg5tT5wdNGHGn+pyTs4lfI6UCoNlbYTL9kU65vb7NirZwdvX3WRTo5d5L1kCA=="/>
+            <enclosure url="https://maheshj01.github.io/supershot_distribution/Supershot.dmg" length="1384615" type="application/octet-stream" sparkle:edSignature="rmpRZO4GUQbWn6uP38LLtoYDpS+r+FaC0XLMVbxIDiY5j9QfE5LoVQ/cy8XgBWPjRIIkbdIMSmFFAfWKf4abBw=="/>
         </item>
     </channel>
 </rss>
