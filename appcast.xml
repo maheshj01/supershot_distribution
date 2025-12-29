@@ -3,12 +3,12 @@
     <channel>
         <title>supershot</title>
         <item>
-            <title>0.4</title>
-            <pubDate>Sun, 14 Dec 2025 01:46:16 -0500</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>0.4</sparkle:shortVersionString>
+            <title>0.5</title>
+            <pubDate>Mon, 29 Dec 2025 12:28:13 -0500</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://maheshj01.github.io/supershot_distribution/Supershot.dmg" length="1385024" type="application/octet-stream" sparkle:edSignature="hGNwtSl3i5EdkEbOpxQYtAtzEofbbZfFeDRN1dc/U55lkvreAihDj3aCJzKEEr41QMF89NTe3s2Sb0hBfhcnAA=="/>
+            <enclosure url="https://maheshj01.github.io/supershot_distribution/Supershot.dmg" length="1384080" type="application/octet-stream" sparkle:edSignature="ZdFRDSqdmBWFSHkL/3SAJOy1pKYrMp0Vm29U8RNebb9IWwpcjK03+lzLgZEPmhuM/bKxoUz5lB6sypDxWQylCg=="/>
         </item>
     </channel>
 </rss>
